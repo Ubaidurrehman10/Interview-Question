@@ -1,0 +1,270 @@
+what is OOP  why it is different from Procedural prograaming
+
+Pillars of OOP ( pata hi hongy tjhe)
+
+concept of abstraction 
+
+How to acheive abstraction in c# ( using abstract class and interface)
+
+Assembly,Namespace,Clases,Data/Attributes,Funtion/Methods
+
+IL,CLR
+
+can we write multiple catch blocks with single try block or if we can do so then which catch block could be catch the exception
+
+sql get second most highest salary is the salary is geting both 10000  Salary--> [0]10000,[1]10000,[2]20000.
+
+how to replace jquery $ to ubaid.
+
+how to get all controls that exsist in tr.
+
+how to get first tr of a table without loop and without index.
+
+jquery if i have thosands of employee is json format how do i get the employee whose id is 19920 without loop.
+
+how many type of session in asp.net.
+
+ASP.NET mcv tempData vs ViewBag
+
+jquery what is EVAL("").
+
+Diff b/w Abstract Class Vs Interface
+
+exe vs dll (exe -> execcutable file, dll -> dynamicaly linked library)
+
+Abstraction vs Encapsulation
+
+Types of Inheritance (Multilevel, multiple  or b hai google krlfilena)
+
+Singleton Class what is the purpose of it
+
+Private Constructur kia hota hai or q use krte hai . 
+
+Operator Overloading in c#
+
+Delegate concept and when to use it . 
+
+what is Func in c# ( Is the func is delegate ? )  
+
+What are the Other things in c# which is actually a delegate 
+
+Async Await in c# (What the advantage it gives in programming)
+
+what is Task Task.Run in AsycnProgramming
+
+LINQ in c#  ( Kch chezy parh lena iski) 
+
+OOP k concepts
+
+Views, Trigger , Diff b/w Stored PRocedure and Views 
+
+Normalization SQL
+
+De Normalization SQL
+
+MVC ki life cycle ya request life Cycle
+
+Action filter
+
+Some Question about Routing .. Custom Routing 
+
+Custom Attribute.4
+
+what is .net core par Middleware
+
+how to cretae a Custom Middlware
+
+difference between .net core project or .net standard project
+
+subquery vs join
+
+asynchronous programming asycn await idea
+
+Ref and Out Parameter in c#
+
+http://www.csharpstar.com/
+
+Dictionary or Hashtable
+
+anagramy 
+
+sorting array
+
+Reverse String 
+
+Word Count in String
+
+
+var a = new a();
+vs
+object b = new b();
+
+types of state managment define in detail each advantages and disadvantages.
+
+why should i am not using inheritance instead of abstraction beacuse it has also a 
+vistual functions if i need to unique implimentation of it.
+
+why should i am not using abstract class over interfcae i should also make a loosely 
+coupled system if i mark all the method are abstract what was the sysmptoms where 
+i recomend interface over abstract class.
+
+what is oop?
+why should i am not using structure programming why i am using oop 
+real time scenario?
+where i use oop and where i use structure approach.
+
+Value type vs Reference type Detail.
+
+string vs StringBuilder?
+
+Mutable vs immutable real time senario and preactice detail.
+
+group by having where?
+
+Array Vs List where i should use array and where i should use list real time senario 
+advantages disatvantages on over other.
+
+Designig of ERD Database.
+
+Keys and Relations.
+
+JavaScript basic question.
+
+Syntax of java script how to create object in java script.
+
+how many of data type should i declare in java script.
+
+css basic syntax.
+
+inline css vs class or link.
+
+Jquerry Syntax basics of jquery.
+
+jquery advantages over javascript.
+
+why should i prefer java script over jquery vise versa.
+
+HTML5 basics.
+
+HTML Control names and it usages.
+
+Soap Based APi vs RestFull API.
+
+Joins in sql.
+
+ADO.net
+
+Connectin oriented object commands of ado.net.
+
+Connection less Object commands of ado.net.
+
+execute scaler vs execute reader vs executeNonQuery.
+
+DataTable vs DataSet , Data reader, Data adapter.
+
+Calling stored procedure in Ado.net.
+
+Passing and reading Parameters of Stored procedure.
+
+write piece of code on database integration.
+
+System.IO, System.XML.
+
+Active directory operations.
+
+Question of .net Framwork class liberary.
+
+how .net works internally.
+
+Event handling in .net.
+
+how staks and heap are handled in .net.
+
+Design Patterns  
+
+Principles of OOP
+
+Abstract VS encapsulation
+
+How did you implement encapsulation?
+
+Difference between shadowing and overriding?
+
+Different types of polymorphism in c#.
+
+CLR, CTS, CAS,IL code etc.
+
+Delegates , events , difference between them
+
+Reflection,threading, application domain,boxing, unboxing etc
+
+Page life cycle.
+
+Authentication and Authorization
+
+Session , cache , view state and applications.
+
+Server controls and user controls.
+
+Database normalization (first normal form, second normal form and third normal form).
+
+SQL Joins
+
+Triggers, stored procedures, Views and cursors.
+
+UNION and UNION ALL.
+
+ADO.NET components
+
+Dataset VS datareader
+
+Using SP with ADO.NET
+
+Locking and connection pooling
+
+Why WCF ?
+
+WCF vsWebservicesvsremoting
+
+Operation contract, data contract and service contract.
+
+One way and two way contracts.
+
+Security, Transactions,REST , Instancing etc.
+
+What is master page.
+
+Dalegates.
+
+Enums.
+
+Most Important Data Sctructures.
+
+Big(O) notations.
+
+Async Await programming.
+
+partial page reload.
+
+write simple progamme using singleton approach and describe it.
+
+dependency injection.
+
+repository pattern
+
+TempData vs ViewData vs ViewBag
+
+CodeFirst vs DbFirst
+
+merge two array no dublicate will be present into third array and sort it.
+
+write alogrithm to check wheather the string in anagram or not. true ==> army = mary
+
+temp table vs table variable.
+
+find how many pair will shopkeeper will make when he has 7 socks each have some color like color = [1, 2, 1, 2, 1, 3, 2], so if we assuming this array shopkeeper will make ony two pair of socks for color 1 and 2 the remaing three are no pair 1,3,2. write an array to calculate how many pair will make by shopkeeper.
+
+Get request Vs Post request example for page.
+
+
+

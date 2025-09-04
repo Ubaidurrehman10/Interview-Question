@@ -296,3 +296,28 @@ REST APi
 • Query to select duplicate rows
 • Query to get the highest salary from each department (Tables: Employee, Department, Salary)
 • What is Indexing?
+
+🔹 C# / .NET
+ • Why do you use an Interface?
+ • What is Dependency Injection? Why should you use it?
+ • What is Middleware? Can you name some built-in middleware?
+ • What is an Anti-Forgery Token? Why do you use it?
+ • What is CORS?
+ • How do you transfer data from a Controller to a View?
+ • What is the difference between Decryption and Hashing? (Decryption can be reversed, but Hashing cannot)
+ • What is a Thread?
+ • If an async method is executed, does it create a new thread under the hood?
+ • How do you stop two different threads from accessing the same method?
+ • What is a Delegate? Can you name some built-in delegates?
+ • Explain Func, Action, and Predicate.
+ • In Entity Framework, how do you join two tables?
+ • What is REST?
+ • If REST is stateless, why is it called a RESTful API?
+ • How do you validate a JWT without using built-in methods?
+
+🔹 SQL
+ • Write a query to delete duplicate rows from a table.
+ • Write a query: You have a Country table with all country details. Display “India” first, and then the rest in alphabetical order.
+ • Write a query to get the second-highest salary from a table. (Most common SQL question I faced)
+ • Questions related to GROUP BY and HAVING.
+ • Questions related to INNER JOIN.

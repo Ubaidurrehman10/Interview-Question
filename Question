@@ -222,23 +222,23 @@ Using SP with ADO.NET
 
 Locking and connection pooling
 
-Why WCF ?
+Why WCF?
 
 WCF vsWebservicesvsremoting
 
-Operation contract, data contract and service contract.
+Operation contract, data contract, and service contract.
 
-One way and two way contracts.
+One-way and two-way contracts.
 
-Security, Transactions,REST , Instancing etc.
+Security, Transactions, REST, Instancing, etc.
 
-What is master page.
+What is a master page?
 
 Dalegates.
 
 Enums.
 
-Most Important Data Sctructures.
+Most Important Data Structures.
 
 Big(O) notations.
 
@@ -271,3 +271,28 @@ Multi Threading
 CQRS Pattern.
 
 REST APi
+
+🔹 Technical Round - (C# / .NET / SQL)
+• Difference between ref and out
+• What is async/await?
+• Explain parallel programming
+• What is a thread?
+• Difference between IEnumerable and IQueryable
+• Difference between Authentication and Authorization
+• What is JWT and how does it work?
+• What is Middleware?
+• What is an Interface? (Interviewer expected discussion on Dependency Injection / Loose Coupling)
+• Scopes in Dependency Injection (Transient, Scoped, Singleton)
+• What is Rate Limiting?
+• Explain the difference between Azure Virtual Network (VNet) and Azure ExpressRoute, and when each is typically used. 
+•What are the benefits of using AAD (Azure Active Directory ) in Hybrid Environments?
+ •VM creation is possible using Azure Resource Manager in a Virtual Network, which was created by means of classic deployment. True or False?
+
+
+
+🔹 SQL
+• Query to select the second-highest salary from an employee table
+• What is the ACID principle?
+• Query to select duplicate rows
+• Query to get the highest salary from each department (Tables: Employee, Department, Salary)
+• What is Indexing?
